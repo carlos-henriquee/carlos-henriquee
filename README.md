@@ -8,7 +8,7 @@
 <br>
 
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-henriquee&show_icons=true&theme=dracula)
+
 
 ## Tecnologias que uso no dia a dia
 
