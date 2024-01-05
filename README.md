@@ -3,7 +3,7 @@
 - 🏫 EEEP Maria Altair Américo Sabóia  
 - 🔭 Aspirante a dev front-end
 - 🌱 Estudando React.js e o superset Typescript
-- 😄 Pronomes: ele/dele
+
 
 <br>
 
