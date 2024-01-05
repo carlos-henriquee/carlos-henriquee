@@ -5,11 +5,6 @@
 - 🌱 Estudando React.js e o superset Typescript
 
 
-<br>
-
-
-
-
 ## Tecnologias que uso no dia a dia
 
 <div style="display: inline_block"><br>
