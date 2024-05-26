@@ -2,7 +2,6 @@
 - 📚 2° Redes de Computadores
 - 🏫 EEEP Maria Altair Américo Sabóia  
 - 🔭 Aspirante a dev front-end
-- 🌱 Estudando React.js e o superset Typescript
 
 
 ## Tecnologias que uso no dia a dia
